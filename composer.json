@@ -1,6 +1,7 @@
 {
   "name": "jesushatesu/youla",
   "description": "parsing Youla for Ads",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
