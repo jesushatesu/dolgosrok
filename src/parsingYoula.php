@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: JesusHatesU
- * Date: 26.05.2019
- * Time: 15:28
- */
 
 namespace jesushatesu;
 
