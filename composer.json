@@ -1,7 +1,7 @@
 {
   "name": "jesushatesu/youla",
   "description": "parsing Youla for Ads",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
@@ -9,10 +9,6 @@
       "email": "111art.rnd111@gmail.com"
     }
   ],
-  "require": {
-    "php" : ">=5.4.0",
-    "guzzlehttp/guzzle": "^6.3"
-  },
   "autoload": {
     "classmap": ["src"]
   }
